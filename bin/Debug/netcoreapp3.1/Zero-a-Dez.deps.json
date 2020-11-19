@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Zero-a-Dez/1.0.0": {
+        "runtime": {
+          "Zero-a-Dez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zero-a-Dez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

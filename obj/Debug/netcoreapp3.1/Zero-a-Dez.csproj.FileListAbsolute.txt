@@ -1,0 +1,13 @@
+C:\Users\nilma\Desktop\Zero-a-Dez\bin\Debug\netcoreapp3.1\Zero-a-Dez.exe
+C:\Users\nilma\Desktop\Zero-a-Dez\bin\Debug\netcoreapp3.1\Zero-a-Dez.deps.json
+C:\Users\nilma\Desktop\Zero-a-Dez\bin\Debug\netcoreapp3.1\Zero-a-Dez.runtimeconfig.json
+C:\Users\nilma\Desktop\Zero-a-Dez\bin\Debug\netcoreapp3.1\Zero-a-Dez.runtimeconfig.dev.json
+C:\Users\nilma\Desktop\Zero-a-Dez\bin\Debug\netcoreapp3.1\Zero-a-Dez.dll
+C:\Users\nilma\Desktop\Zero-a-Dez\bin\Debug\netcoreapp3.1\Zero-a-Dez.pdb
+C:\Users\nilma\Desktop\Zero-a-Dez\obj\Debug\netcoreapp3.1\Zero-a-Dez.csprojAssemblyReference.cache
+C:\Users\nilma\Desktop\Zero-a-Dez\obj\Debug\netcoreapp3.1\Zero-a-Dez.AssemblyInfoInputs.cache
+C:\Users\nilma\Desktop\Zero-a-Dez\obj\Debug\netcoreapp3.1\Zero-a-Dez.AssemblyInfo.cs
+C:\Users\nilma\Desktop\Zero-a-Dez\obj\Debug\netcoreapp3.1\Zero-a-Dez.csproj.CoreCompileInputs.cache
+C:\Users\nilma\Desktop\Zero-a-Dez\obj\Debug\netcoreapp3.1\Zero-a-Dez.dll
+C:\Users\nilma\Desktop\Zero-a-Dez\obj\Debug\netcoreapp3.1\Zero-a-Dez.pdb
+C:\Users\nilma\Desktop\Zero-a-Dez\obj\Debug\netcoreapp3.1\Zero-a-Dez.genruntimeconfig.cache
